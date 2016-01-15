@@ -1,0 +1,18 @@
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\bin\Debug\CAL.exe.config
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\bin\Debug\CAL.exe
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\bin\Debug\CAL.pdb
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\obj\Debug\CAL.Form1.resources
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\obj\Debug\CAL.Properties.Resources.resources
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\obj\Debug\CAL.csproj.GenerateResource.Cache
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\obj\Debug\CAL.exe
+c:\users\worawee\documents\visual studio 2013\Projects\CAL\CAL\obj\Debug\CAL.pdb
+C:\Users\Worawee\Documents\Visual Studio 2013\Projects\CAL\CAL\obj\Debug\CAL.csprojResolveAssemblyReference.cache
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\bin\Debug\CAL.exe.config
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.exe
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.pdb
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\bin\Debug\CAL.exe
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\bin\Debug\CAL.pdb
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.csprojResolveAssemblyReference.cache
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.Form1.resources
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.Properties.Resources.resources
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\calculator_Jan2015\CAL\obj\Debug\CAL.csproj.GenerateResource.Cache
